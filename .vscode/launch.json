@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Ruby: Current File",
+      "type": "ruby",
+      "request": "launch",
+      "program": "${file}"
+    }
+  ]
+}
